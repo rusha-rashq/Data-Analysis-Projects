@@ -1,0 +1,101 @@
+patient_id,visit_date,illness,treatment,effectiveness
+95,2023-01-01 09:16:21,Flu,Antihistamine,Low
+96,2023-01-03 20:50:38,Migraine,Antiviral,Low
+46,2023-01-04 19:58:50,Stomach Bug,Antihistamine,Low
+18,2023-01-09 11:09:45,Cold,Antihistamine,Medium
+11,2023-01-10 18:06:37,Stomach Bug,Antiviral,Low
+22,2023-01-11 02:42:36,Stomach Bug,Pain Reliever,Low
+89,2023-01-11 09:33:22,Cold,Antibiotic,High
+16,2023-01-11 12:08:42,Allergy,Antibiotic,Low
+51,2023-01-12 02:02:59,Migraine,Steroid,Low
+75,2023-01-12 06:34:47,Migraine,Pain Reliever,High
+56,2023-01-13 09:53:38,Cold,Antihistamine,Medium
+87,2023-01-15 03:51:43,Flu,Antiviral,Low
+52,2023-01-15 21:59:13,Stomach Bug,Steroid,Low
+34,2023-01-16 06:40:42,Flu,Antiviral,Medium
+86,2023-01-16 13:30:49,Allergy,Antiviral,High
+57,2023-01-16 18:06:25,Migraine,Antihistamine,Medium
+91,2023-01-17 02:33:58,Flu,Pain Reliever,High
+81,2023-01-17 12:48:22,Cold,Antibiotic,Low
+93,2023-01-18 23:50:47,Allergy,Antihistamine,Low
+4,2023-01-19 20:50:27,Migraine,Steroid,Medium
+82,2023-01-20 06:43:08,Allergy,Antibiotic,Low
+19,2023-01-21 16:48:35,Flu,Antibiotic,High
+71,2023-01-21 23:32:18,Stomach Bug,Pain Reliever,Low
+26,2023-01-22 00:55:16,Flu,Pain Reliever,Low
+32,2023-01-22 09:41:16,Cold,Antibiotic,High
+84,2023-01-22 18:29:27,Cold,Antibiotic,Medium
+64,2023-01-23 15:54:18,Stomach Bug,Antiviral,Medium
+100,2023-01-24 00:26:26,Cold,Antibiotic,High
+49,2023-01-24 16:50:59,Cold,Steroid,Low
+47,2023-01-26 05:14:20,Migraine,Steroid,Medium
+70,2023-01-28 09:42:38,Stomach Bug,Steroid,Low
+3,2023-01-28 10:33:58,Migraine,Steroid,Low
+40,2023-01-28 16:58:06,Flu,Steroid,High
+41,2023-01-30 15:04:32,Stomach Bug,Pain Reliever,Low
+90,2023-01-30 22:16:56,Allergy,Antihistamine,High
+48,2023-01-31 03:26:33,Stomach Bug,Steroid,Medium
+60,2023-02-01 23:13:20,Stomach Bug,Antibiotic,Low
+25,2023-02-03 06:29:04,Stomach Bug,Antihistamine,Low
+39,2023-02-03 07:28:05,Stomach Bug,Steroid,Medium
+58,2023-02-03 10:29:47,Stomach Bug,Pain Reliever,Low
+69,2023-02-03 19:05:28,Migraine,Steroid,Medium
+33,2023-02-03 21:56:44,Cold,Antibiotic,Low
+37,2023-02-06 04:35:08,Stomach Bug,Antiviral,Low
+14,2023-02-06 06:15:59,Allergy,Antiviral,Low
+68,2023-02-06 20:10:37,Stomach Bug,Antihistamine,Low
+76,2023-02-07 04:22:03,Migraine,Steroid,Low
+83,2023-02-07 10:16:22,Flu,Steroid,Medium
+73,2023-02-08 05:58:33,Flu,Pain Reliever,Medium
+88,2023-02-08 10:55:09,Migraine,Steroid,High
+65,2023-02-09 08:01:24,Cold,Antibiotic,Low
+44,2023-02-11 20:02:52,Cold,Steroid,Low
+53,2023-02-11 23:25:24,Flu,Pain Reliever,Low
+74,2023-02-12 14:00:29,Migraine,Antibiotic,Medium
+94,2023-02-15 10:01:37,Cold,Pain Reliever,Low
+79,2023-02-15 12:19:34,Flu,Antihistamine,High
+99,2023-02-16 03:42:04,Flu,Antiviral,High
+66,2023-02-17 18:59:40,Cold,Steroid,Medium
+42,2023-02-17 22:24:00,Migraine,Steroid,Low
+9,2023-02-18 19:02:09,Migraine,Steroid,Low
+50,2023-02-18 22:33:38,Cold,Antiviral,High
+10,2023-02-19 03:15:16,Cold,Antihistamine,Low
+77,2023-02-20 05:10:18,Migraine,Antihistamine,Low
+35,2023-02-20 22:53:01,Flu,Antiviral,High
+54,2023-02-25 08:47:54,Stomach Bug,Antibiotic,Medium
+8,2023-02-25 12:43:56,Flu,Antiviral,Medium
+36,2023-02-25 17:41:48,Allergy,Antiviral,High
+23,2023-02-26 00:09:25,Stomach Bug,Antibiotic,Low
+7,2023-02-26 07:20:26,Allergy,Steroid,Low
+63,2023-02-26 16:46:06,Migraine,Antibiotic,High
+15,2023-02-28 06:17:45,Migraine,Steroid,High
+1,2023-03-01 00:43:13,Allergy,Antibiotic,Low
+29,2023-03-02 03:00:38,Cold,Antibiotic,Low
+55,2023-03-02 14:42:29,Flu,Antihistamine,Low
+62,2023-03-04 11:35:51,Allergy,Antibiotic,High
+98,2023-03-05 10:14:49,Migraine,Antiviral,High
+78,2023-03-07 08:00:33,Allergy,Steroid,Medium
+61,2023-03-07 09:16:51,Stomach Bug,Antibiotic,Low
+24,2023-03-09 08:35:59,Stomach Bug,Antiviral,Medium
+85,2023-03-09 12:51:18,Stomach Bug,Antihistamine,Medium
+21,2023-03-10 02:54:23,Cold,Pain Reliever,High
+28,2023-03-11 00:11:10,Cold,Antibiotic,Low
+2,2023-03-11 11:48:06,Allergy,Antibiotic,Medium
+67,2023-03-13 01:22:59,Flu,Antihistamine,Low
+6,2023-03-14 05:34:55,Cold,Antihistamine,Medium
+30,2023-03-14 12:55:52,Allergy,Antibiotic,Medium
+59,2023-03-16 03:05:06,Stomach Bug,Steroid,Medium
+5,2023-03-17 02:01:27,Cold,Antihistamine,Low
+20,2023-03-18 07:39:42,Migraine,Pain Reliever,Medium
+43,2023-03-19 19:06:27,Stomach Bug,Steroid,Low
+80,2023-03-20 03:14:52,Cold,Antihistamine,High
+45,2023-03-20 10:41:02,Migraine,Antibiotic,Low
+97,2023-03-20 11:16:11,Stomach Bug,Antiviral,High
+31,2023-03-20 23:16:42,Migraine,Antihistamine,Low
+27,2023-03-22 06:42:35,Migraine,Antibiotic,Low
+38,2023-03-22 08:30:06,Migraine,Antiviral,Low
+12,2023-03-22 11:05:11,Flu,Antiviral,Medium
+72,2023-03-22 21:00:53,Stomach Bug,Antiviral,Medium
+13,2023-03-23 06:13:51,Allergy,Pain Reliever,Medium
+92,2023-03-23 18:01:35,Allergy,Antibiotic,High
+17,2023-03-29 02:39:42,Flu,Steroid,Medium

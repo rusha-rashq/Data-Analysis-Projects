@@ -1,0 +1,27 @@
+Healthcare Trends Report
+Common Illnesses:
+Stomach Bug    24
+Migraine       22
+Cold           21
+Flu            18
+Allergy        15
+Name: illness, dtype: int64
+
+Treatment Effectiveness:
+treatment      effectiveness
+Antibiotic     Low              13
+               High              7
+               Medium            5
+Antihistamine  Low              11
+               Medium            5
+               High              3
+Antiviral      High              7
+               Low               6
+               Medium            6
+Pain Reliever  Low               7
+               High              3
+               Medium            3
+Steroid        Low              11
+               Medium           10
+               High              3
+Name: effectiveness, dtype: int64
