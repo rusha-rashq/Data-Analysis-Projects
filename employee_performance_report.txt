@@ -1,0 +1,17 @@
+Employee Performance Report
+
+Top Performers:
+ Employee ID       Name   Team  Sales Performance  Customer Satisfaction  Project Delivery  Average Performance
+           1 Employee 1 Team A                 82                     91                83            85.333333
+           3 Employee 3 Team C                 91                    100                84            91.666667
+
+Underperformers:
+ Employee ID       Name   Team  Sales Performance  Customer Satisfaction  Project Delivery  Average Performance
+           2 Employee 2 Team B                 60                     63                59            60.666667
+           5 Employee 5 Team B                 59                     51                77            62.333333
+
+Average Team Performance:
+  Team  Average Performance
+Team A            80.380952
+Team B            71.809524
+Team C            74.500000
