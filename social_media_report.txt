@@ -1,0 +1,12 @@
+Social Media Analytics Report
+================================
+
+Total Follower Growth: 119.0
+Average Engagement Rate: 14.17%
+
+Most Popular Posts:
+Post ID: post_42, Engagement Rate: 48.41%
+Post ID: post_360, Engagement Rate: 44.81%
+Post ID: post_77, Engagement Rate: 41.64%
+Post ID: post_99, Engagement Rate: 41.42%
+Post ID: post_303, Engagement Rate: 41.24%

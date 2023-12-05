@@ -1,0 +1,11 @@
+Property ID,Region,Price,Bedrooms,Bathrooms,Size (sq ft),Type
+101,Downtown,500000,3,2,1500,Apartment
+102,Downtown,600000,4,3,2000,House
+103,Suburbs,350000,3,2,1800,House
+104,Suburbs,400000,2,1,1200,Apartment
+105,Countryside,300000,4,2,2200,Villa
+106,Countryside,320000,3,2,1600,Villa
+107,Downtown,550000,5,3,2100,Apartment
+108,Suburbs,380000,3,2,1700,House
+109,Countryside,290000,4,2,2300,Villa
+110,Downtown,610000,4,3,2000,House

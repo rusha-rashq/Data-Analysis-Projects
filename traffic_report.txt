@@ -1,0 +1,16 @@
+Traffic Analysis Report
+
+Peak Traffic Hours:
+Time: 08:00, Frequency: 1
+Time: 08:30, Frequency: 1
+Time: 18:00, Frequency: 1
+
+Accident-Prone Areas:
+Area: Route B, Accidents: 2
+Area: Route A, Accidents: 1
+Area: Route C, Accidents: 1
+
+Average Travel Time per Route:
+Route: Route A, Average Time: 27.50 minutes
+Route: Route B, Average Time: 32.50 minutes
+Route: Route C, Average Time: 31.50 minutes

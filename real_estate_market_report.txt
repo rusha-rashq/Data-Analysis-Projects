@@ -1,0 +1,29 @@
+Real Estate Market Analysis Report
+==================================
+
+Trends in Property Prices:
+Highest Average Prices by Region:
+Region
+Downtown       565000.000000
+Suburbs        376666.666667
+Countryside    303333.333333
+
+Average Price per Square Foot by Region:
+Region
+Downtown       300.059524
+Suburbs        250.435730
+Countryside    154.150198
+
+Count of Properties by Type in Each Region:
+Region       Type     
+Countryside  Villa        3
+Downtown     Apartment    2
+             House        2
+Suburbs      Apartment    1
+             House        2
+
+Average Prices by Region:
+Region
+Countryside    303333.333333
+Downtown       565000.000000
+Suburbs        376666.666667

@@ -1,0 +1,44 @@
+[
+    {
+        "location": "Route A",
+        "time": "08:00",
+        "traffic_intensity": "high",
+        "accidents": 1,
+        "travel_time": 30
+    },
+    {
+        "location": "Route A",
+        "time": "09:00",
+        "traffic_intensity": "medium",
+        "accidents": 0,
+        "travel_time": 25
+    },
+    {
+        "location": "Route B",
+        "time": "08:30",
+        "traffic_intensity": "high",
+        "accidents": 2,
+        "travel_time": 45
+    },
+    {
+        "location": "Route B",
+        "time": "17:00",
+        "traffic_intensity": "low",
+        "accidents": 0,
+        "travel_time": 20
+    },
+    {
+        "location": "Route C",
+        "time": "18:00",
+        "traffic_intensity": "high",
+        "accidents": 1,
+        "travel_time": 35
+    },
+    {
+        "location": "Route C",
+        "time": "07:00",
+        "traffic_intensity": "medium",
+        "accidents": 0,
+        "travel_time": 28
+    }
+]
